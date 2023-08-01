@@ -1,0 +1,4 @@
+module "vpcpeer"{
+  source = "./vpcpeer"
+}
+
