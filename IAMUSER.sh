@@ -1,9 +1,9 @@
 #! /bin/bash
 
 
-MyIamGroup="deltagroup"
-MyUser="deltauser"
-password="7681003292@delta"
+MyIamGroup="de*******"
+MyUser="d*****"
+password="*********"
 
 #creating my group
 aws iam create-group --group-name $MyIamGroup
