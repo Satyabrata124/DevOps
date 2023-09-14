@@ -2,8 +2,8 @@
 
 # Set your AWS region and credentials
 AWS_REGION="ap-south-1"
-AWS_ACCESS_KEY_ID="AKIA2V5IMUGIHP2M5AMW"
-AWS_SECRET_ACCESS_KEY="k5vwrCAsmOMaxb0sOPJIvJSD/KVK/fIduQL7Izjx"
+AWS_ACCESS_KEY_ID="************"
+AWS_SECRET_ACCESS_KEY="*******************"
 
 # Create VPC
 echo "Creating VPC..."
